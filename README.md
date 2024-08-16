@@ -1,1 +1,4 @@
-dsc: @samiker
+- dsc: samiker
+- age - ?
+- use MCreator for creating minecraft mods
+- speaking language - russian, reading - ru, very bad english
