@@ -1,4 +1,7 @@
-- dsc: samiker
+- Discord - samiker
 - age - ?
-- use MCreator for creating minecraft mods
-- speaking language - russian, reading - ru, very bad english
+- name - ?
+- i'm learning:
+  - JS(+minimum html) for creating dsc-bot's
+  - Java for creating minecraft mods
+- writing/read on ru and en(bad) lang
