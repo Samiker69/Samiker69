@@ -8,7 +8,7 @@ I study programming languages as a hobby and as long as I am interested in it, I
 ### bots on:
   Discord:
   
-    js - done!
+    js - done! | who is samiker - bot administrator
     c++ - start
     java - later
     rust - ????
