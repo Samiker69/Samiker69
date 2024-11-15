@@ -10,7 +10,6 @@ I study programming languages as a hobby and as long as I am interested in it, I
   
     js - done! | who is samiker - bot administrator
     c++ - start
-    java - later
     rust - ????
 
   Telegramm(bruh):
@@ -18,3 +17,7 @@ I study programming languages as a hobby and as long as I am interested in it, I
     js - 50\50
     c++ - someday
     rust - tulski pranik
+
+
+## Java
+minecraft mods|plugins
