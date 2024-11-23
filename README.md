@@ -1,6 +1,4 @@
 - Discord - samiker
-- age - ?
-- name - ?
 
 ## what am I doing?
 I study programming languages as a hobby and as long as I am interested in it, I will do it. to make the study more effective, I immediately start making a project in this language and my choice fell on the creation of bots. mainly, they are Discord bots.
@@ -21,3 +19,7 @@ I study programming languages as a hobby and as long as I am interested in it, I
 
 ## Java
 minecraft mods|plugins
+
+## other
+just JS server 
+html+css 
