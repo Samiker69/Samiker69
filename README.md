@@ -10,4 +10,4 @@ Average ~~shit~~coder on nodejs. I write all sorts of small projects just for fu
 - Later I want to learn <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
 <br>
 <br>
-<div align="center">I mostly make discord/telegram(shit) bots for different tasks. Also sometimes I write servers for my small projects. At times I play with AI: embed them in bots, <s>make them play a character</s>, use them to generate images (you can see one of them on the banner above)</div>
+<div align="center">I mostly make discord/telegram(shit) bots for different tasks. Also sometimes I write servers for my small projects. At times I play with AI: embed them in bots, <s>make them play a character</s></div>
