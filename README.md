@@ -13,3 +13,19 @@ Average <del>shit</del>coder on nodejs. I write all sorts of small projects just
 <br>
 <br>
 <div align="center">I mostly make discord bots for different tasks. Also sometimes I write servers for my small projects.</div>
+<br><br>
+
+
+<div align="center">
+  Some stats:
+  <br>
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Samiker69.Samiker69&"  />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samiker69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samiker69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samiker69&theme=github-dark&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+</div>
