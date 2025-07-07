@@ -1,6 +1,8 @@
 #
 
-
+![chen_bg_git](https://github.com/user-attachments/assets/4c53d1c1-2f48-4de7-be37-d7e685159043)
+<div align="center">look at Chen~~</div>
+<br>
 Average ~~shit~~coder on nodejs. I write all sorts of small projects just for fun
 - I enjoy playing Sandbox, Platformer, Strategies, Rhythm (they make my fingers sore)
   
@@ -10,4 +12,4 @@ Average ~~shit~~coder on nodejs. I write all sorts of small projects just for fu
 - Later I want to learn <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
 <br>
 <br>
-<div align="center">I mostly make discord/telegram(shit) bots for different tasks. Also sometimes I write servers for my small projects. At times I play with AI: embed them in bots, <s>make them play a character</s></div>
+<div align="center">I mostly make discord bots for different tasks. Also sometimes I write servers for my small projects.</div>
