@@ -1,7 +1,7 @@
 #
 
-![chen_bg_git](https://github.com/user-attachments/assets/4c53d1c1-2f48-4de7-be37-d7e685159043)
-<div align="center">look at Chen~~</div>
+![rosmontis_5](https://github.com/user-attachments/assets/ee3e1f8e-916d-4d7e-a3ec-8666fe1a9e32)
+<div align="center"><i>No need to worry about Rosmontis remembering you ate her snacks yesterday. Probably.</i></div>
 <br>
 Average <del>shit</del>coder on nodejs. I write all sorts of small projects just for fun<br>
 - I enjoy playing Sandbox, Platformer, Strategies, Rhythm (they make my fingers sore)
