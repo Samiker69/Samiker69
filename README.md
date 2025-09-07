@@ -1,7 +1,12 @@
 #
 
-![rosmontis_5](https://github.com/user-attachments/assets/ee3e1f8e-916d-4d7e-a3ec-8666fe1a9e32)
-<div align="center"><i>No need to worry about Rosmontis remembering you ate her snacks yesterday. Probably.</i></div>
+<img width="1600" height="900" alt="mon3tr_63" src="https://github.com/user-attachments/assets/caa66fa1-eac2-4564-8825-b7f583f18781" />
+
+<div align="center">
+  <i>- 你已经转告过我和博士了，Mon3tr。你不用专门耐着性子坐在这里，一遍遍重复......有点像背书。</i><br>
+  <i>- 不，我也需要理解。</i>
+</div>
+<br>
 <br>
 Average <del>shit</del>coder on nodejs. I write all sorts of small projects just for fun<br>
 - I enjoy playing Sandbox, Platformer, Strategies, Rhythm (they make my fingers sore)
